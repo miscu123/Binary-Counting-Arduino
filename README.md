@@ -28,7 +28,7 @@ volatile char ledPins[8] = {2,3,4,5,6,7,8,9}; // LED pin numbers
 volatile bool updateFlag = false; // Signals main loop to refresh LEDs
 volatile bool stopFlag = false;   // Stops counter at maximum
 ```
-
+## Demo video
 [Demo video](Arduino_Binary_counter.mp4)
 
 
