@@ -27,3 +27,10 @@ volatile char bits[8] = {0,0,0,0,0,0,0,0}; // Current binary state
 volatile char ledPins[8] = {2,3,4,5,6,7,8,9}; // LED pin numbers
 volatile bool updateFlag = false; // Signals main loop to refresh LEDs
 volatile bool stopFlag = false;   // Stops counter at maximum
+```
+
+<video width="480" height="320" controls>
+  <source src="X.mp4" type="video/mp4">
+  Browserul tău nu suportă video.
+</video>
+
