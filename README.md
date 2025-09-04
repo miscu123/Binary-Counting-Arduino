@@ -29,8 +29,6 @@ volatile bool updateFlag = false; // Signals main loop to refresh LEDs
 volatile bool stopFlag = false;   // Stops counter at maximum
 ```
 
-<video width="480" height="320" controls>
-  <source src="X.mp4" type="video/mp4">
-  Browserul tău nu suportă video.
-</video>
+[Demo video](Arduino_Binary_counter.mp4)
+
 
